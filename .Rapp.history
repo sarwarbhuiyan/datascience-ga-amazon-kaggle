@@ -1,0 +1,171 @@
+c(1,2,3)
+install.packages("ggplot2")
+vesselsSunk <- c(4,5,1)
+barplot(vesselsSunk)
+x <- c(4,2,6)
+y <- c(1,0,-1)
+length(x)
+sum(x)
+sum(x^2)
+x*y
+x - 2
+x^2
+rep(2,4)
+rep(c(1,2),4)
+rep(c(1,2), c(4,4))
+rep(1:4,4)
+rep(1:4,rep(3,4))
+rep(6,6)
+rep(c(5,8),4)
+rep(c(5,8),c(4,4))
+mean(x)
+x<-c(7.5,8.2,3.1,5.6,8.2,9.3,6.5,7.0,9.3,1.2,14.5,6.2)
+mean(x)
+var(x)
+sd(x)
+summary(x)
+mean(x)
+median(x)
+var(x)
+sd(x)
+summary(x)
+a<-c(1,3)
+a[3] <- 4
+print(a)
+a[4] < 4
+a[4] <- 4
+sd(a)
+mean(a)
+media(a)
+median(a)
+summary(a)
+plot(x, a)
+y<-c(7.5,8.2,3.1,5.6,8.2,9.3,6.5,7.0,9.3,1.2,14.5,6.2)
+plot(x, y)
+qplot(x,y)
+barplot(x)
+1:6
+seq(0,10,by=0.1)
+x[1:6]
+x[7:12]
+sum(x)
+help(sum)
+help(plot)
+examples(plot)
+example(plot)
+help(file.csv)
+csv
+help(csv)
+help(??csv)
+??csv
+read.csv('mydata.csv')
+read.csv('/Users/sarwar/mydata.csv')
+read.csv('/Users/sarwar/Documents/mydata.csv')
+mydata <- read.csv('/Users/sarwar/Documents/mydata.csv')
+plot(mydata)
+z<-matrix(c(5,7,9,6,3,4),nrow=3)
+print(z)
+z<-matrix(c(5,7,9,6,3,4),nrow=3,byrow=T)
+print(x)
+print(z)
+x <- matrix(c(3,2,-1,1),nrow=2)
+print(x)
+x <- matrix(c(3,2,-1,1),nrow=2,byrow=T)
+print(x)
+x <- matrix(c(1,4,0,0,1,-1),nrow=2,byrow=T)
+x <- matrix(c(3,2,-1,1),nrow=2,byrow=T)
+y <- matrix(c(1,0,4,1,0,-1),nrow=2)
+print(y)
+2*x
+x*x
+x%*%x
+data()
+data(trees)
+trees[1:5,]
+help(dnorm)
+x<-seq(-5,10,by=.1)
+dnorm(x,3,2)
+plot(x,dnorm(x,3,2))
+my.df <- read.table(text = "group N        val         sd         se         ci#
+206 3 37.2269533  7.9688645  4.6008261 19.7957568#
+207 3  2.0731505  2.2843009  1.3188417  5.6745180#
+208 3  2.2965978  1.4120606  0.8152536  3.5077531#
+209 3  3.1085132  1.1986664  0.6920504  2.9776525#
+210 3  3.3735251  1.9226134  1.1100214  4.7760365#
+211 3  4.0477951  2.9410503  1.6980162  7.3059739#
+212 3  1.2391158  1.2345554  0.7127709  3.0668055#
+213 2  1.3082374  1.1234220  0.7943793 10.0935460", header = TRUE)#
+#
+ggplot(my.df, aes(x = factor(group), y = val)) +  #
+  geom_bar(position = position_dodge()) + #
+  geom_errorbar(aes(ymin=val-se, ymax=val+se))
+my.df <- read.table(text = "group N        val         sd         se         ci#
+206 3 37.2269533  7.9688645  4.6008261 19.7957568#
+207 3  2.0731505  2.2843009  1.3188417  5.6745180#
+208 3  2.2965978  1.4120606  0.8152536  3.5077531#
+209 3  3.1085132  1.1986664  0.6920504  2.9776525#
+210 3  3.3735251  1.9226134  1.1100214  4.7760365#
+211 3  4.0477951  2.9410503  1.6980162  7.3059739#
+212 3  1.2391158  1.2345554  0.7127709  3.0668055#
+213 2  1.3082374  1.1234220  0.7943793 10.0935460", header = TRUE)#
+#
+ggplot2(my.df, aes(x = factor(group), y = val)) +  #
+  geom_bar(position = position_dodge()) + #
+  geom_errorbar(aes(ymin=val-se, ymax=val+se))
+help(ggplot)
+install.packages("ggplot2")
+library(ggplot2)
+pie <- ggplot(mtcars, aes(x = factor(1), fill= factor(cyl))) + geom_bar(width= 1, position = "fill", color = "black")
+pie
+pie + coord_polar(theta = "y")
+?geom_jitter
+I_jean <- read.delim("http://bit.ly/avml_ggplot2_data")
+I_jean
+head(I_jean)
+p <- ggplot(I_jean, aes(x = Dur_msec, y=F1.n))
+p
+p <- p + geom_point()
+p
+ggplot(I_jean, aes(x=Dur_msec, y=F1.n))+geom_point(shape=3)
+ggplot(I_jean, aes(x=Dur_msec, y=F1.n)) +#
+  geom_point(color = "red", size = 3)
+p <- p + stat_smooth()
+p
+ggplot(I_jean, aes(x = Dur_msec, y=F1.n))+stat_smooth()
+p <- p + scale_x_log10(breaks = c(50, 100, 200, 300, 400))+ scale_y_reverse()
+p
+p <- p + ylab("Normalized F1")+xlab("Vowel duration(msec)")+theme_bw()+
+opts(title="394 tokens of 'I' from one speaker")
+p
+I_subset <- subset(I_jean, Word != "I")
+ggplot(I_subset, aes(Dur_msec, F1.n, color = Word))+
+geom_point()
+I_jean
+ggplot(I_subset, aes(Dur_msec, F1.n, color = Word))+geom_point+geom_line()
+ggplot(I_subset, aes(Dur_msec, F1.n, color = Word))+geom_point()+geom_line()
+ggplot(I_subset, aes(Dur_msec, F1.n, color=Word))+#
+  geom_point()+#
+  stat_smooth(se = F)
+clear
+cls
+help
+getwd()
+setwd('/Users/sarwar/dev/kaggle/amazon-role-challenge')
+ls
+list()
+listfiles()
+list.files()
+train <- read.csv('train.csv',header=T)
+head(train)
+unique(train[1])
+unique(train[0])
+unique(train[:1])
+unique(train["RESOURCE"])
+as.data.frame(table(train))
+unique(train["RESOURCE"])
+train["RESOURCE"]
+train
+sapply(train, function(x) length(unique(x)))
+test <- read.csv('test.csv')
+sapply(trest, function(x) length(unique(x)))
+sapply(test, function(x) length(unique(x)))

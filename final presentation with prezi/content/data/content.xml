@@ -1,0 +1,1435 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-31354.73677134127" y="-23533.70285564769" width="62709.47354268254" height="47067.40571129538"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="22_1860812" type="button" x="-1.0619418013140809e-12" y="0" r="0" s="78.4456761854923" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>799.373040752351</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="5_30908617" type="button" x="-0.4264232257396706" y="-14620.763928811912" r="-0.37218394292449547" s="15.360749174499407" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_1870566" type="image" x="-52.39499647821549" y="-9630.61756804318" r="0" s="1.8027030741358656">
+      <source w="879" h="714" bt="120.45" bl="419.4">292599509.swf<url>292599509.swf</url>
+      </source>
+      <sourceUrl>robotfejjókör.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    <resource><id>
+        292599509
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/a/d/1b03ab594894c2c7be02c778c1badddf20bc1.swf</url></resource></object>
+    <object id="7" type="shape" x="9315.721246125522" y="-1100.2682282120302" r="-0.3721839429244947" s="63.72479729207257" class="line3">
+      <geom type="arrow">
+        <sp>-30.298960568769303 0</sp>
+        <ep>30.298960568769303 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="23_1860812" type="button" x="-11040.17854264349" y="-1346.4069503377707" r="0" s="38.08549874366182" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.7409200968524</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="3" type="button" x="-18322.532986144874" y="-7508.29795546467" r="22.223094919098273" s="9.832708109318327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>888.3</w>
+        <h>506.2019185107797</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="8" type="button" x="18016.022806261135" y="-1274.9529380338643" r="0" s="15.889067231299148" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="9" type="button" x="-21043.259675371835" y="-1263.8820810699738" r="-1.0391979614132421e-16" s="9.027915663777232" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10" type="button" x="-18268.893857838953" y="4980.3034479302" r="-25.893789958265963" s="9.496857361684096" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>796.4</w>
+        <h>453.8322727704435</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="6" type="shape" x="-13610.24047631063" y="1443.5077749062484" r="-27.332754121205046" s="48.19709705772569" class="line1">
+      <geom type="arrow">
+        <sp>-53.076893156565035 6.912132232019772</sp>
+        <ep>53.076893156565035 6.912132232019772</ep>
+        <b>-13.824264464039544</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="5" type="shape" x="-13846.675850794076" y="-1089.4023061463793" r="-0.37218394292454277" s="48.19709705772563" class="line1">
+      <geom type="arrow">
+        <sp>-56.271719756854985 0</sp>
+        <ep>56.27171975685498 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="4" type="shape" x="-13575.448567721382" y="-3673.6045304556096" r="26.386688893880343" s="48.19709705772565" class="line1">
+      <geom type="arrow">
+        <sp>-53.726617723526246 -6.802573764913837</sp>
+        <ep>53.726617723526246 -6.802573764913837</ep>
+        <b>13.605147529827674</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_1870566" type="image" x="-1691.4781022697498" y="-1779.7023025474075" r="0" s="22.794562926140898">
+      <source w="812" h="730" bt="218.2" bl="380.4">292599511.swf<url>292599511.swf</url>
+      </source>
+      <sourceUrl>robottest.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    <resource><id>
+        292599511
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/1/1b1d913ca5830f4bdcab65c2eb363d86709d8.swf</url></resource></object>
+    <object id="4_1870566" type="persistentgroup" x="-1691.4781022697498" y="-1864.9852433286487" r="0" s="43.014073036989174">
+      <m o="2_1870566"/>
+      <m o="3_1870566"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_30863873" type="text" x="-1694.012097203041" y="17351.474963194014" r="0" s="73.24090741825302" class="head">
+      <height>65.3671875</height>
+      <width>683.2935386475958</width>
+      <p align="center">
+        <text><![CDATA[Predict an employee's access needs, given his/her job role]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[(Amazon Kaggle Challenge)]]></text>
+      </p>
+    </object>
+    <object id="7_4" type="text" x="-16989.659683639078" y="-8916.606428842486" r="22.22309491909826" s="19.75037932327451" class="strong">
+      <height>27.7734375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Initial Analysis]]></text>
+      </p>
+      <meta>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-21010.830800193642" y="-3699.687550971873" r="-1.0391979614132405e-16" s="25.642793738545972" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Problem]]></text>
+      </p>
+      <meta>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-21061.91198122636" y="-2465.3620299915247" r="-1.0391979614132422e-16" s="11.816867609577738" class="body">
+      <height>111.09375</height>
+      <width>390.9237784827681</width>
+      <p align="center">
+        <text><![CDATA[Prediction of employee access to systems based on role information (Amazon Kaggle Challenge) using Machine Learning]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="-19150.82105129765" y="3644.09944012447" r="-25.893789958265966" s="18.811232234987344" class="strong">
+      <height>27.7734375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Training and Test Data]]></text>
+      </p>
+      <meta>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="10"/>
+      </layout>
+    </object>
+    <object id="3_30863873" type="text" x="211.45" y="-19252.65" r="-0.3721839429244956" s="59.9919448689595" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Process]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="5_30908617"/>
+      </layout>
+    </object>
+    <object id="5_30863873" type="text" x="17991.480119487594" y="-6247.4745406549855" r="0" s="39.995606489599886" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Results]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="11" type="button" x="-21860.713750373205" y="781.8407168585272" r="1.4004497509449718" s="3.0378291095826637" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.0000000000009</w>
+        <h>600</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="12" type="text" x="-21886.339768706035" y="285.2451931000159" r="1.400449750944968" s="7.3539348203567805" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Inputs]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="11"/>
+      </layout>
+    </object>
+    <object id="13" type="text" x="-21867.630075107365" y="789.1786557041488" r="1.40044975094497" s="2.898151269593089" class="body">
+      <height>83.3203125</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Resource (IT system to access)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Role Information (title, family, rollup information, manager, role family)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="11"/>
+      </layout>
+    </object>
+    <object id="15" type="button" x="-19934.05" y="533.6999999999999" r="0.2668392378836868" s="2.2443496263505556" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="16" type="text" x="-19910.497207928096" y="57.74345223817318" r="0.266839237883686" s="7.3539348203567805" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Output]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="17" type="text" x="-19517.848334981485" y="453.0198815416455" r="0.2668392378836867" s="2.854874093477112" class="body">
+      <height>55.546875</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Has Access?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Yes or No]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="23" type="button" x="-18524.38774056794" y="-830.1725598320209" r="-2.5532117346301666" s="2.1529801360901093" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="24" type="text" x="-18531.51358000345" y="-1248.3318152864679" r="-2.553211734630173" s="6.077632082939488" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Submission Assessment]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="23"/>
+      </layout>
+    </object>
+    <object id="25" type="text" x="-18530.429763611864" y="-822.8043385122606" r="-2.553211734630167" s="2.738649603488484" class="body">
+      <height>83.3203125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Not probability of access]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Using AUC of ROC]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="23"/>
+      </layout>
+    </object>
+    <object id="36" type="button" x="-23148.45" y="-749.45" r="1.7958184750750656" s="2.5523848498061827" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="37" type="text" x="-23152.562411394712" y="-1337.0879287015787" r="1.7958184750750676" s="9.062207806666855" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Motivation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="36"/>
+      </layout>
+    </object>
+    <object id="38" type="text" x="-23083.393093182567" y="-634.1081262784539" r="1.7958184750750683" s="3.2467033205266755" class="body">
+      <height>249.9609375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[New employees joining large companies require access to lots of different systems]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Each system has separate access control requirements]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Number of approvals required increase with time]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Lots of man hours wasted ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="36"/>
+      </layout>
+    </object>
+    <object id="39" type="image" x="-18154.81277474065" y="-8149.179013034091" r="22.22309491909827" s="18.344774780515376">
+      <source w="431" h="76">782221915.png<url>782221915.png</url>
+      </source>
+      <sourceUrl>amazoninitialdata.png</sourceUrl>
+    <resource><id>
+        782221915
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/8/f7e1501c2f08b2e8664da2c9a7554bc673fbe.png</url></resource></object>
+    <object id="40" type="text" x="-19058.143385424493" y="-6897.275099987648" r="22.223094919098266" s="11.816867609577738" class="body">
+      <height>55.546875</height>
+      <width>566.4211727395437</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[All Data is categorical despite the numbers. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Probably IDs of the records in a database]]></text>
+      </p>
+    </object>
+    <object id="49" type="button" x="-19880.09381228211" y="6160.671503788925" r="-25.893789958265987" s="4.634892595240605" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>600.3799873337555</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="50" type="text" x="-20098.49138945662" y="6072.3291620272375" r="-25.893789958265973" s="6.037359122101952" class="body">
+      <height>333.28125</height>
+      <width>292.0452934274069</width>
+      <p align="right">
+        <text><![CDATA[Training Feature Frequency]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ACTION = 2]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[RESOURCE = 7518]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[MGR_ID = 4243]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_ROLLUP_1 = 128]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_ROLLUP_2 = 177]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_DEPTNAME = 449]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_TITLE = 343]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_FAMILY_DESC = 2358]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_FAMILY = 67]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[ROLE_CODE = 343]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="51" type="button" x="-16754.87770278176" y="4627.6092774952895" r="-25.893789958265963" s="4.595987644840133" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>611.018214392356</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="52" type="text" x="-16885.949908191178" y="4512.867165262591" r="-25.893789958265973" s="6.037359122101952" class="body">
+      <height>333.28125</height>
+      <width>-268.2421875</width>
+      <p>
+        <text><![CDATA[Test Feature Frequency]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ACTION = 2]]></text>
+      </p>
+      <p>
+        <text><![CDATA[RESOURCE = 4971]]></text>
+      </p>
+      <p>
+        <text><![CDATA[MGR_ID = 4689]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_ROLLUP_1 = 126]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_ROLLUP_2 = 177]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_DEPTNAME = 466]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_TITLE = 351]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_FAMILY_DESC = 2749]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_FAMILY = 68]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ROLE_CODE = 351]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="54" type="button" x="-2340.35" y="-15980.75" r="2.5655495228811547" s="5.442840923787731" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.0000000000002</w>
+        <h>600</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="5_30908617"/>
+      </layout>
+    </object>
+    <object id="55" type="text" x="-2317.815490163321" y="-16803.363080805935" r="2.5655495228811565" s="8.999354045403997" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Problem Type]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="54"/>
+      </layout>
+    </object>
+    <object id="56" type="text" x="-2021.5394791642689" y="-16121.583849701303" r="2.5655495228811565" s="8.138466099489127" class="body">
+      <height>55.546875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Supervised Classification]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Only categorical Data]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="54"/>
+      </layout>
+    </object>
+    <object id="58" type="button" x="-1857.4553020988674" y="-12802.823766889434" r="-1.187151261362489" s="3.3132346527215546" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="5_30908617"/>
+      </layout>
+    </object>
+    <object id="59" type="text" x="-1882.9035468405975" y="-13470.257782622788" r="-1.18715126136249" s="7.304266795679817" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Classifiers?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="58"/>
+      </layout>
+    </object>
+    <object id="60" type="text" x="-1506.6775671221058" y="-12848.254790751262" r="-1.187151261362489" s="6.605532730276702" class="body">
+      <height>83.3203125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Logistic Regression]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Decision Tree]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Random Forest Ensemble]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="58"/>
+      </layout>
+    </object>
+    <object id="63" type="button" x="1083.25" y="-16693.65" r="-5.278924820701838" s="4.10767464026221" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="5_30908617"/>
+      </layout>
+    </object>
+    <object id="64" type="text" x="992.7367761731241" y="-17516.759422709332" r="-5.278924820701838" s="9.05566753555405" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Tools]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="63"/>
+      </layout>
+    </object>
+    <object id="65" type="text" x="1438.35" y="-16664.8" r="-5.278924820701841" s="10.263319669257413" class="body">
+      <height>111.09375</height>
+      <width>238.3069014454584</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Python]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Scikit-Learn]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Cross Validation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Metrics]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="63"/>
+      </layout>
+    </object>
+    <object id="73" type="button" x="14899" y="-2938.4500000000003" r="-0.6485472014173866" s="2.889161928453054" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>804.0421321880674</w>
+        <h>804.1766809883395</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="74" type="text" x="14890.07597903505" y="-3715.9602269378875" r="-0.6485472014173915" s="13.964076958093548" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Decision Tree]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="73"/>
+      </layout>
+    </object>
+    <object id="75" type="text" x="15925.000814330744" y="-2912.308186473735" r="-0.6485472014173883" s="9.24665193599322" class="body">
+      <height>55.546875</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[AUC = 0.78 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Even after tuning]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="73"/>
+      </layout>
+    </object>
+    <object id="0_48597719" type="button" x="14771.30697683589" y="1091.2795614427962" r="-0.3721839429244955" s="2.963938135710869" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>600.0000000000015</w>
+        <h>670.109375</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="1_48597719" type="text" x="14767.383092733613" y="420.53064128032395" r="-0.37218394292449003" s="8.681823289310747" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Logistic Regression]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_48597719"/>
+      </layout>
+    </object>
+    <object id="3_48597719" type="text" x="14803.95597239638" y="1057.6280012662091" r="-0.37218394292448975" s="7.892566626646133" class="body">
+      <height>55.546875</height>
+      <width>-200.44921875</width>
+      <p>
+        <text><![CDATA[AUC = 0.87057]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Not bad after tuning]]></text>
+      </p>
+    </object>
+    <object id="4_48597719" type="button" x="17821.8" y="-716.35" r="-0.6485472014173866" s="4.829599884933794" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>600.0000000000015</w>
+        <h>600</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="5_48597719" type="text" x="17840.17963417939" y="-1546.7431958915633" r="-0.6485472014173893" s="12.860571687586985" class="strong">
+      <height>55.546875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Random Forest Classifier (Ensemble)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="4_48597719"/>
+      </layout>
+    </object>
+    <object id="6_48597719" type="text" x="18261.596878875986" y="-402.8034759860912" r="-0.6485472014173898" s="8.177650327931362" class="body">
+      <height>166.640625</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[AUC = 0.87139]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[n_estimators=200, min_samples_split=15, min_density=0.1,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[compute_importances=True]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="4_48597719"/>
+      </layout>
+    </object>
+    <object id="7_48597719" type="button" x="21107.96246386861" y="997.316237886743" r="-0.6485472014173866" s="3.4724450989375186" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>600.0000000000015</w>
+        <h>600</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="8_48597719" type="text" x="21149.938814089463" y="419.213500191742" r="-0.6485472014173874" s="9.894956896796947" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Can we blend?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="7_48597719"/>
+      </layout>
+    </object>
+    <object id="9_48597719" type="text" x="21172.47721989611" y="1179.0713203435641" r="-0.6485472014173883" s="4.434378980548712" class="body">
+      <height>166.640625</height>
+      <width>328.30828034855404</width>
+      <p>
+        <text><![CDATA[Added results from first 3 classifiers]]></text>
+      </p>
+      <p>
+        <text><![CDATA[AUC = 0.87271]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Maybe other ways of blending required]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="7_48597719"/>
+      </layout>
+    </object>
+    <object id="10_48597719" type="button" x="21164.1" y="-2853.994028114353" r="0" s="5.266387185585036" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>600</w>
+        <h>524.156045706161</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="8"/>
+      </layout>
+    </object>
+    <object id="11_48597719" type="text" x="21163.975051912876" y="-4005.0697174303905" r="0" s="5.906010228269483" class="strong">
+      <height>27.7734375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[What about feature enhancement?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="10_48597719"/>
+      </layout>
+    </object>
+    <object id="24_4" type="text" x="21157.92036604599" y="-2655.815096962158" r="0" s="5.365598566463944" class="body">
+      <height>361.0546875</height>
+      <width>452.3821807806253</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Kaggle competitors seem to be pre-processing the data to create new and enhanced features]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Basically combine the existing features from training set in different 2-tuple and 3-tuple combinations]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Can be done recursively on the combinations of combinations]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[AUC = 0.87678 with Random Forest Classifier achieved with basic 6 level feature combination]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Might work better with Logistic Regression]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="10_48597719"/>
+      </layout>
+    </object>
+    <object id="12_48597719" type="text" x="17473.825097748366" y="-4950.997803244801" r="0" s="36.35964226327262" class="body">
+      <height>27.7734375</height>
+      <width>-191.0390625</width>
+      <p>
+        <text><![CDATA[Final AUC = 0.87678]]></text>
+      </p>
+    </object>
+    <object id="2_48597719" type="button" x="19016.600000000002" y="9458.050000000001" r="0" s="10.307714379865258" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1565.5172413793102</w>
+        <h>600</h>
+      </size>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="13_48597719" type="text" x="18503.20796091905" y="7426.001763972948" r="0" s="45.36631549284816" class="strong">
+      <height>27.7734375</height>
+      <width>-135.97265625</width>
+      <p>
+        <text><![CDATA[Kaggle winners]]></text>
+      </p>
+    </object>
+    <object id="14_48597719" type="text" x="18349.511550393792" y="9902.813787784013" r="0" s="19.239746354851658" class="body">
+      <height>166.640625</height>
+      <width>566.266056185227</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Winning kaggle submission had a lot of different techniques to enhance the data, sort/select features, and tune parameters (Final winner 0.92360)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Part dark art]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Part learning from others]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Lots of patience as some classifiers will run days]]></text>
+      </p>
+    </object>
+    <object id="18_48597719" type="button" x="18376.15" y="-14288.6" r="0" s="13.62513969752304" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1377.3913043478262</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="19_48597719" type="text" x="18621.080957581253" y="-17296.108861278124" r="0" s="34.29742096000003" class="strong">
+      <height>27.7734375</height>
+      <width>-232.265625</width>
+      <p>
+        <text><![CDATA[Future work and potential]]></text>
+      </p>
+    </object>
+    <object id="20_48597719" type="text" x="18060.060156940843" y="-14084.8435625" r="0" s="21.29600000000001" class="body">
+      <height>194.4140625</height>
+      <width>787.9192435577153</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Can definitely use Logistic Regression and more fine grained techniques but depends on what we want to achieve]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Can develop applications in industry to give a ballpark probability of whether to auto-approve employees during on-boarding or new requests]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[May be used for analytics to reduce/rationalize number of roles and role families]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="24_48597719" type="button" x="1792.759131722631" y="-12185.572271532257" r="-2.6479519118920525" s="4.363907722034586" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout>
+        <layout-element role="child" parent-id="5_30908617"/>
+      </layout>
+    </object>
+    <object id="25_48597719" type="text" x="1736.8412124678937" y="-13063.518768703514" r="-2.647951911892052" s="9.620552002643446" class="strong">
+      <height>27.7734375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Basic Approach]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="24_48597719"/>
+      </layout>
+    </object>
+    <object id="26_48597719" type="text" x="1914.2875035588606" y="-11912.487651160634" r="-2.6479519118920516" s="6.605532730276702" class="body">
+      <height>249.9609375</height>
+      <width>441.2411451748805</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Tweak Data]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Fit Classifier]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Run Cross Validation to calculate AUC of ROC (gives rough estimate of improvement)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Submit data online]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Repeat]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Also learn from others on kaggle forums for tips and tricks using OOTB APIs]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="24_48597719"/>
+      </layout>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="22_1860812"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="36"/>
+    </s>
+    <s>
+      <eagle o="11"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="23"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="10"/>
+    </s>
+    <s>
+      <eagle o="49"/>
+    </s>
+    <s>
+      <eagle o="51"/>
+    </s>
+    <s>
+      <eagle o="23_1860812"/>
+    </s>
+    <s>
+      <eagle o="5_30908617"/>
+    </s>
+    <s>
+      <eagle o="54"/>
+    </s>
+    <s>
+      <eagle o="58"/>
+    </s>
+    <s>
+      <eagle o="63"/>
+    </s>
+    <s>
+      <eagle o="24_48597719"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="0_48597719"/>
+    </s>
+    <s>
+      <eagle o="73"/>
+    </s>
+    <s>
+      <eagle o="4_48597719"/>
+    </s>
+    <s>
+      <eagle o="7_48597719"/>
+    </s>
+    <s>
+      <eagle o="10_48597719"/>
+    </s>
+    <s>
+      <eagle o="2_48597719"/>
+    </s>
+    <s>
+      <eagle o="18_48597719"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('GentiumBasic.keg');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('OpenSans-Light.keg');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('GentiumBasic-I.keg');
+	fontFamily: strong;
+}
+
+background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	color: #000;
+	fontFamily: head;
+}
+
+text.subtitle
+{
+	color: #194a99;
+	fontFamily: strong;
+}
+
+text.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #ffe683;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #bff;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #dfdfdf;
+	background-padding: 7;
+	background-padding-bottom: 5;
+	background-padding-left: 9;
+	background-padding-right: 5;
+}
+
+frame.circle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+frame.rectangle
+{
+	borderColor: #97f1ff;
+	borderThickness: 0;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+arrow
+{
+	borderColor: #7f7f7f;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line
+{
+	color: #333;
+}
+
+line-arrow.style1
+{
+	color: #efefef;
+	gradEndColor: #efefef;
+	gradStartColor: #efefef;
+}
+
+line-arrow.style2
+{
+	color: #7a8082;
+	gradEndColor: #7a8082;
+	gradStartColor: #7a8082;
+}
+
+line-arrow.style3
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style4
+{
+	color: #318bff;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+line-arrow.style5
+{
+	color: #194a99;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #efefef;
+	borderThickness: 0;
+	gradEndColor: #efefef;
+	gradStartColor: #efefef;
+}
+
+shape.style2
+{
+	borderColor: #7a8082;
+	borderThickness: 0;
+	gradEndColor: #7a8082;
+	gradStartColor: #7a8082;
+}
+
+shape.style3
+{
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+shape.style4
+{
+	borderColor: #194a99;
+	borderThickness: 0;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+shape.style5
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+free-line
+{
+	color: #333;
+}
+
+free-marker
+{
+	color: #00e1ff;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #640f1e;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #46353c;
+	gradEndColor: #46353c;
+	gradStartColor: #46353c;
+}
+
+.poly5
+{
+	borderColor: #46353c;
+	borderThickness: 8;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.strong
+{
+	color: #194a99;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #b33e71;
+	gradEndColor: #b33e71;
+	gradStartColor: #b33e71;
+}
+
+.poly1
+{
+	borderAlpha: 1;
+	borderColor: #b33e71;
+	borderThickness: 8;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	borderColor: #b33e71;
+	borderThickness: 0;
+	gradEndColor: #b33e71;
+	gradStartColor: #b33e71;
+	thickness: 8;
+}
+
+.line4
+{
+	color: #fc0;
+	gradEndColor: #fc0;
+	gradStartColor: #fc0;
+}
+
+.poly4
+{
+	borderColor: #6bb8d6;
+	borderThickness: 0;
+	gradEndColor: #6bb8d6;
+	gradStartColor: #6bb8d6;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+	thickness: 8;
+}
+
+.line2
+{
+	color: #bd8ab7;
+	gradEndColor: #bd8ab7;
+	gradStartColor: #bd8ab7;
+}
+
+.poly2
+{
+	color: #fff;
+	gradEndColor: #b33e71;
+	gradStartColor: #b33e71;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fc0;
+	borderThickness: 0;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fc0;
+	gradStartAlpha: 0.5;
+	gradStartColor: #fc0;
+	radius: 3;
+}
+
+ZArrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+.line3
+{
+	color: #6bb8d6;
+	gradEndAlpha: 1;
+	gradEndColor: #6bb8d6;
+	gradStartAlpha: 1;
+	gradStartColor: #6bb8d6;
+}
+
+.poly3
+{
+	borderColor: #6bb8d6;
+	borderThickness: 8;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLine
+{
+	alpha: 1;
+	color: #000;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #fc0;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+point
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+]]></style>
+  <hash>5d2c31a3</hash>
+<sync><oid>p83w50pjijwc</oid><title>data-science-london-amazon-kaggle-challenge-2013-sarwar-bhuiyan</title><hash>5d2c31a3</hash></sync><config>B0b33ih1TB5CCGznEPwuKu+W5Cs8dMAlkbT4OEbxBFpCVpTRMdJtqp+2CwPqNXpi6aSPjwrOAGCUwYshOURO/f3XO4KkHmQjBs1sDgaYarLOf0htUi566m5JEq/ynJkglbvUs3CNw5PE2Q/0mSY7seS2/KmmIzCVobUxHXk3LDQLDtA5g4MMDfk7s9Hc4WJKazNDKCLC8IjSNuwpRx+fLVrNcf7Yy3HsR9F7M85DIvqTDbmLLI5EnBefBB29Jy3Dr+XdHaZupYiD2PJ3S8g/h4ZhqYgA6Yt02oxNebVXFT5OsAY++9saDO+AjxIARyEBJ9vMHLqPafevMUSAEJd01A==</config></zuiprezi>

@@ -1,0 +1,18 @@
+Notes.
+
+Feature reduction
+1. using randomforestclassifier (100 estimators, min_split_samples=2) with compute_importances, started reducing features with the lowest rank (the higher the number, the more important)
+a. on first pass . avg_auc = 0.840778
+b. removed "ROLE_FAMILY" avg_auc = 0.842880
+b. removed "ROLE_ROLLUP_2" avg_auc = 0.840512
+c. removed "ROLE_DEPTNAME" avg_auc = 0.839011
+d. removed "ROLE_CODE" (duplicate of ROLE_TITLE) avg_auc = 0.844358
+
+2. Keep increasing n_estimators
+a. increased n_estimators = 200, avg_auc = 0.847360
+b. increased n_estimators = 300, avg_auc = 0.848288
+c. increased n_estimators = 600, min_density=0.1 avg_auc = 0.857766
+  i) min_density = 0.05 avg_auc=0.858480
+  0.858517
+
+
